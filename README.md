@@ -1,0 +1,3 @@
+# MASK-RCNN-Dataset
+
+This dataset consists of over 500 passport and ID card images specifically curated for training RCNN models for image segmentation. The images are annotated using Coco Annotator, making it easy for machine learning models to identify and segment different regions within the images. This dataset is ideal for training machine learning models for a range of applications, such as image analysis, document processing, and more. With this dataset, researchers and developers can easily create and train models for accurate image segmentation, helping to improve the efficiency and accuracy of a range of applications.
